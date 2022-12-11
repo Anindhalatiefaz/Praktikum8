@@ -7,7 +7,7 @@
 
 ![Screenshot (195)](https://user-images.githubusercontent.com/115516800/206909249-daab351d-c6cb-4c32-90fb-77974401d7d0.png)
 
-2. Membuat class data_mhs dengan berisi, yaitu: nama, nim, tugas, uts, dan uas.
+2. Membuat class data_mhs yang berisi, yaitu: nama, nim, tugas, uts, dan uas.
 
 ![Screenshot (196)](https://user-images.githubusercontent.com/115516800/206909326-08f0cd69-80d5-485f-ba86-93c339663537.png)
 
@@ -61,3 +61,5 @@
 ![Screenshot (208)](https://user-images.githubusercontent.com/115516800/206910079-13fd26d7-7abd-4561-ac88-3e2f1323c2ae.png)
 
 # Flowchart
+
+![Flowchart 8](https://user-images.githubusercontent.com/115516800/206910402-3919180e-9de0-47cd-b570-f7ebf3eed876.png)
